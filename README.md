@@ -7,6 +7,7 @@
 Clone the repository and navigate into the project directory:
 
 git clone https://github.com/ollelar/basic-network-test-tool.git
+
 cd basic-network-test-tool
 
 Install the required dependencies:

@@ -1,13 +1,13 @@
-# Network Diagnostic Tool
+# Basic Network Diagnostic Tool
 
 ## Overview
-`network_diagnostic_tool.py` is a Python script designed for performing network diagnostics. It includes features such as ping tests, DNS resolution checks, and HTTP request verifications, providing essential information for network troubleshooting.
+`basic-network-test-tool.py` is a Python script designed for performing network diagnostics. It includes features such as ping tests, DNS resolution checks, and HTTP request verifications, providing essential information for network troubleshooting.
 
 ## Installation
 Clone the repository and navigate into the project directory:
 
-git clone https://github.com/your-username/network-diagnostic-tool.git
-cd network-diagnostic-tool
+git clone https://github.com/ollelar/basic-network-test-tool.git
+cd basic-network-test-tool
 
 Install the required dependencies:
 

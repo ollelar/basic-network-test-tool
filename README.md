@@ -1,4 +1,4 @@
-# Basic Network Diagnostic Tool
+# Basic Network Test Tool
 
 ## Overview
 `basic-network-test-tool.py` is a Python script designed for performing network diagnostics. It includes features such as ping tests, DNS resolution checks, and HTTP request verifications, providing essential information for network troubleshooting.
